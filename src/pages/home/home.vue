@@ -56,8 +56,34 @@
               placeholder="请选择地区！"
               style="width: 100%"
             >
-              <el-option label="区域一" value="shanghai"></el-option>
-              <el-option label="区域二" value="beijing"></el-option>
+              <el-option label="区域1" value="shanghai"></el-option>
+              <el-option label="区域2" value="beijing"></el-option>
+              <el-option label="区域3" value="shanghai"></el-option>
+              <el-option label="区域4" value="beijing"></el-option>
+              <el-option label="区域5" value="shanghai"></el-option>
+              <el-option label="区域6" value="beijing"></el-option>
+              <el-option label="区域7" value="shanghai"></el-option>
+              <el-option label="区域8" value="beijing"></el-option>
+              <el-option label="区域9" value="shanghai"></el-option>
+              <el-option label="区域10" value="beijing"></el-option>
+              <el-option label="区域11" value="shanghai"></el-option>
+              <el-option label="区域12" value="beijing"></el-option>
+              <el-option label="区域13" value="shanghai"></el-option>
+              <el-option label="区域14" value="beijing"></el-option>
+              <el-option label="区域15" value="shanghai"></el-option>
+              <el-option label="区域16" value="beijing"></el-option>
+              <el-option label="区域17" value="shanghai"></el-option>
+              <el-option label="区域18" value="beijing"></el-option>
+              <el-option label="区域19" value="shanghai"></el-option>
+              <el-option label="区域20" value="beijing"></el-option>
+              <el-option label="区域21" value="shanghai"></el-option>
+              <el-option label="区域22" value="beijing"></el-option>
+              <el-option label="区域23" value="shanghai"></el-option>
+              <el-option label="区域24" value="beijing"></el-option>
+              <el-option label="区域25" value="shanghai"></el-option>
+              <el-option label="区域26" value="beijing"></el-option>
+              <el-option label="区域27" value="shanghai"></el-option>
+              <el-option label="区域28" value="beijing"></el-option>
             </el-select>
           </el-form-item>
           <el-form-item label="医院">
